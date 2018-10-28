@@ -33,7 +33,7 @@ It is on a major Amtrak train route, and has many long-distance bus services, al
 
 The preferred date is for tutorials on 2020-06-30 (Tuesday), with the conference lasting from 2020-07-01 to 2020-07-03 (Wednesday to Friday).
 
-## Accomodation
+## Accommodation
 
 > Potential accommodation
 
@@ -43,6 +43,13 @@ The preferred date is for tutorials on 2020-06-30 (Tuesday), with the conference
 
 > Plans for the general format of the conference and the social program
 
+We propose to follow the standard useR format.
+
+- Tuesday consists of half day tutorials (at extra cost), and has a tourism-based social event in the evening.
+- Talks run from Wednesday to Friday, including parallel sessions and at least six keynote talks. 
+- Wednesday includes a session for sponsors. The evening event is a drinks, networking, and poster session.
+- Thursday includes breakout sessions for special interest groups. The evening event is a dinner (ticket required).
+- Friday includes lightning talks and an early finish.
 
 
 ## Diversity, inclusion, accessibility
