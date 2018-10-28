@@ -4,17 +4,29 @@
 
 > An overview of the team: who are the people involved, what is their scientific/technical background, which universities/businesses/organizations are represented?
 
+- [Richard Cotton](https://www.linkedin.com/in/richierocks), Head of Content Quality at DataCamp.
+- [Hugo Bowne-Anderson](https://www.linkedin.com/in/hugo-bowne-anderson-045939a5/), Data Scientist at DataCamp.
+- [Lore Dirick](https://www.linkedin.com/in/lore-dirick-b9066234), Senior Data Science Curriculum Writer at Flatiron School.
+- [Dmitriy Gorenshteyn](https://www.linkedin.com/in/dimagor), Senior Data Scientist at Memorial Sloan Kettering Cancer Center.
+- [Jennifer Hill](https://www.linkedin.com/in/jennifer-hill-0a419310), Professor of Applied Statistics and Data Science at NYU; Co-Director, PRIISM Center; Co-Director, A3SR MS Program.
+- [Soumya Kalra](https://www.linkedin.com/in/soumyakalra), Quantitative Analyst, Federal Reserve Bank of New York; R-Ladies NYC board member.
+- [Mike Kane](https://www.linkedin.com/in/michael-kane-9766147), Assistant Professor at Yale University.
+- [Jared Lander](https://www.linkedin.com/in/jaredlander), Chief Data Scientist of Lander Analytics.
+- [JD Long](https://www.linkedin.com/in/jamesdlong), Vice President of Risk Management at RenaissanceRe.
+- [Brian Peterson](https://www.linkedin.com/in/briangpeterson), Managing Director at Hehmeyer Trading + Investments.
+- [Simon Urbanek](https://www.linkedin.com/in/simon-urbanek-08b973106), Lead Inventive Scientist at AT&T Labs - Research; President of R Foundation.
+- [Tian Zheng](https://www.linkedin.com/in/tian-zheng-082402/), Professor of Statistics & Data Science Institute Associate Director for Education, Columbia University.
 
 
 ## City overview
 
 > An overview of the host city: why is it suitable for useR!, how easy is it to get to?
 
-# City Suitability
+### City Suitability
 
 NYC occupies a central position within the Northeast Meagalopolis, containing over 50 million people. That gives a large local audience to attend the conference. The city has three universities, NYU, Columbia, and CUNY, between them having over 360 thousand students. Additionally, the city has an strong presence in data science-related industries, particularly finance and healthcare.
 
-# Travelling to NYC
+### Travelling to NYC
 
 NYC has three airports close by, two of which are international: John F. Kennedy International Airport, Newark Liberty International Airport, and LaGuardia Airport. The city's position on the East coast allows for relatively easy attendance from Europe and Africa.
 
