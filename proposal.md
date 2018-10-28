@@ -56,7 +56,7 @@ We propose to follow the standard useR format.
 
 > Diversity and inclusion considerations: is the venue accessible, will there be on-site child care?
 
-
+Yes and yes.
 
 
 ## Budget
