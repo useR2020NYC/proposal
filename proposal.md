@@ -31,6 +31,7 @@ Richie is the author of two books on R programming, and is the creator or contri
 
 ### [JD Long](https://www.linkedin.com/in/jamesdlong), Vice President of Risk Management at RenaissanceRe.
 
+JD Long is a New York based risk manager and a long time R user. JD founded the Chicago R User group, is the coauthor of _R Cookbook - 2nd Edition_ and is a regular presenter at multiple tech meetups in the Northeast. 
 
 ### [Brian Peterson](https://www.linkedin.com/in/briangpeterson), Managing Director at Hehmeyer Trading + Investments.
 
