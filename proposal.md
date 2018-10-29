@@ -4,18 +4,41 @@
 
 > An overview of the team: who are the people involved, what is their scientific/technical background, which universities/businesses/organizations are represented?
 
-- [Richard Cotton](https://www.linkedin.com/in/richierocks), Head of Content Quality at DataCamp.
-- [Hugo Bowne-Anderson](https://www.linkedin.com/in/hugo-bowne-anderson-045939a5/), Data Scientist at DataCamp.
-- [Lore Dirick](https://www.linkedin.com/in/lore-dirick-b9066234), Senior Data Science Curriculum Writer at Flatiron School.
-- [Dmitriy Gorenshteyn](https://www.linkedin.com/in/dimagor), Senior Data Scientist at Memorial Sloan Kettering Cancer Center.
-- [Jennifer Hill](https://www.linkedin.com/in/jennifer-hill-0a419310), Professor of Applied Statistics and Data Science at NYU; Co-Director, PRIISM Center; Co-Director, A3SR MS Program.
-- [Soumya Kalra](https://www.linkedin.com/in/soumyakalra), Quantitative Analyst, Federal Reserve Bank of New York; R-Ladies NYC board member.
-- [Mike Kane](https://www.linkedin.com/in/michael-kane-9766147), Assistant Professor at Yale University.
-- [Jared Lander](https://www.linkedin.com/in/jaredlander), Chief Data Scientist of Lander Analytics.
-- [JD Long](https://www.linkedin.com/in/jamesdlong), Vice President of Risk Management at RenaissanceRe.
-- [Brian Peterson](https://www.linkedin.com/in/briangpeterson), Managing Director at Hehmeyer Trading + Investments.
-- [Simon Urbanek](https://www.linkedin.com/in/simon-urbanek-08b973106), Lead Inventive Scientist at AT&T Labs - Research; President of R Foundation.
-- [Tian Zheng](https://www.linkedin.com/in/tian-zheng-082402/), Professor of Statistics & Data Science Institute Associate Director for Education, Columbia University.
+### [Hugo Bowne-Anderson](https://www.linkedin.com/in/hugo-bowne-anderson-045939a5), Data Scientist at DataCamp.
+
+
+### [Richard Cotton](https://www.linkedin.com/in/richierocks), Head of Content Quality at DataCamp.
+
+Richie is the author of two books on R programming, and is the creator or contributor to many R packages, including thirty-five on CRAN. At DataCamp he has been responsible for the creation of over forty courses on R. He was one of the organizers of the NoreastR conference in 2018. He has visited five previous useR conferences as a speaker and tutorial instructor.
+
+### [Lore Dirick](https://www.linkedin.com/in/lore-dirick-b9066234), Senior Data Science Curriculum Writer at Flatiron School.
+
+
+### [Dmitriy Gorenshteyn](https://www.linkedin.com/in/dimagor), Senior Data Scientist at Memorial Sloan Kettering Cancer Center.
+
+
+### [Jennifer Hill](https://www.linkedin.com/in/jennifer-hill-0a419310), Professor of Applied Statistics and Data Science at NYU; Co-Director, PRIISM Center; Co-Director, A3SR MS Program.
+
+
+### [Soumya Kalra](https://www.linkedin.com/in/soumyakalra), Quantitative Analyst, Federal Reserve Bank of New York; R-Ladies NYC board member.
+
+
+### [Mike Kane](https://www.linkedin.com/in/michael-kane-9766147), Assistant Professor at Yale University.
+
+
+### [Jared Lander](https://www.linkedin.com/in/jaredlander), Chief Data Scientist of Lander Analytics.
+
+
+### [JD Long](https://www.linkedin.com/in/jamesdlong), Vice President of Risk Management at RenaissanceRe.
+
+
+### [Brian Peterson](https://www.linkedin.com/in/briangpeterson), Managing Director at Hehmeyer Trading + Investments.
+
+
+### [Simon Urbanek](https://www.linkedin.com/in/simon-urbanek-08b973106), Lead Inventive Scientist at AT&T Labs - Research; President of R Foundation.
+
+
+### [Tian Zheng](https://www.linkedin.com/in/tian-zheng-082402/), Professor of Statistics & Data Science Institute Associate Director for Education, Columbia University.
 
 
 ## City overview
