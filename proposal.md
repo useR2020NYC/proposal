@@ -28,6 +28,8 @@ Richie is the author of two books on R programming, and is the creator or contri
 
 ### [Jared Lander](https://www.linkedin.com/in/jaredlander), Chief Data Scientist of Lander Analytics.
 
+Jared P. Lander is Chief Data Scientist of Lander Analytics, an Adjunct Professor of Statistics at Columbia University and author of R for Everyone, a book about R Programming geared toward Data Scientists and Non-Statisticians alike. He is the Organizer of the New York Open Statistical Programming Meetup (the world's largest R meetup with over 10,000 members), the New York R Conference which is now in its fourth year and the Washington DC R Conference.
+
 
 ### [JD Long](https://www.linkedin.com/in/jamesdlong), Vice President of Risk Management at RenaissanceRe.
 
