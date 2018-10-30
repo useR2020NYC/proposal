@@ -71,7 +71,7 @@ It is on a major Amtrak train route, and has many long-distance bus services, al
 
 The preferred date is for tutorials on 2020-07-07 (Tuesday), with the conference lasting from 2020-07-08 to 2020-07-10 (Wednesday to Friday).
 
-The previous week is undesirable since it clashes with The International Society for [Bayesian Analysis World Meeting](https://bayesian.org/events/world-meetings), and many people may wish to attend both events.
+The previous week is undesirable since it clashes with [The International Society for Bayesian Analysis World Meeting](https://bayesian.org/events/world-meetings), and many people may wish to attend both events.
 
 ## Accommodation
 
