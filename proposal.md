@@ -38,6 +38,12 @@ JD Long is a New York based risk manager and a long time R user. JD founded the 
 ### [Brian Peterson](https://www.linkedin.com/in/briangpeterson), Managing Director at Hehmeyer Trading + Investments.
 
 
+### [Noam Ross](https://www.linkedin.com/in/noamross), Disease Ecologist at EcoHealth Alliance; Editor at rOpenSci.
+
+
+### [Letisha Smith](https://www.linkedin.com/in/letishas), Senior Database Analyst at NYU Langone Health.
+
+
 ### [Simon Urbanek](https://www.linkedin.com/in/simon-urbanek-08b973106), Lead Inventive Scientist at AT&T Labs - Research; President of R Foundation.
 
 
