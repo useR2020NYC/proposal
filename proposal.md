@@ -47,6 +47,9 @@ JD Long is a New York based risk manager and a long time R user. JD founded the 
 ### [Simon Urbanek](https://www.linkedin.com/in/simon-urbanek-08b973106), Lead Inventive Scientist at AT&T Labs - Research; President of R Foundation.
 
 
+### [John Verzani](https://www.linkedin.com/in/jjohn-verzani-12a8997), Professor and Chair of the Mathematics Department at the College of Staten Island of the City University of New York.
+
+
 ### [Tian Zheng](https://www.linkedin.com/in/tian-zheng-082402/), Professor of Statistics & Data Science Institute Associate Director for Education, Columbia University.
 
 
