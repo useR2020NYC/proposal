@@ -42,7 +42,7 @@ JD Long is a New York based risk manager and a long time R user. JD founded the 
 
 
 ### [Letisha Smith](https://www.linkedin.com/in/letishas), Senior Database Analyst at NYU Langone Health.
-
+Letisha Smith recently graduated with her MS in Applied Statistics at New York University. In her current role as Senior Database Analyst at NYU’s School of Medicine, she uses R on a daily basis to synthesize and report on data that residents, clinics, and hospitals receive on their quality of care. In 2018, the Royal Statistical Society recognized her with a Statistical Excellence Award in Early Career Writing for a paper she wrote on using machine learning to reduce food waste.
 
 ### [Simon Urbanek](https://www.linkedin.com/in/simon-urbanek-08b973106), Lead Inventive Scientist at AT&T Labs - Research; President of R Foundation.
 
