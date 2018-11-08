@@ -112,4 +112,44 @@ Yes and yes.
 
 > An outline budget
 
+### Space rental 
+
+TBD
+
+### Catering
+
+- $75/attendee/day
+
+**$300k**
+
+### Audio-visual
+
+- 3x photogaphers @ $1500/day
+- 1x videographer @ $2500/day
+
+**$28k**
+
+### Event management
+
+- 1x site manager @ $500/day
+- 20x helpers @ $200/day
+
+**$18k**
+
+### Signage
+
+- Booklets, signs, etc.
+
+**$10k**
+
+### Swag
+
+- $15/attendee
+
+**$15k**
+
+
+### Total costs
+
+**$371k** + whatever the space costs
 
