@@ -114,7 +114,11 @@ Yes and yes.
 
 ### Space rental 
 
-TBD
+[Metropolitan pavilion](https://www.metropolitanevents.com/location/metropolitan-pavilion): main floor; 3 days @ $23k/day + $1600 clean up fee. 
+Metropolitan pavilion: floors 2, 4, and 5; 4 days at $21.55k/day + $2400 clean up fee.
+[Altman building](https://www.altmanbldg.com/venue): $29k/day
+
+**$275.2k**
 
 ### Catering
 
@@ -126,8 +130,9 @@ TBD
 
 - 3x photogaphers @ $1500/day
 - 1x videographer @ $2500/day
+- Premium Internet @$2k
 
-**$28k**
+**$36k**
 
 ### Event management
 
@@ -151,5 +156,5 @@ TBD
 
 ### Total costs
 
-**$371k** + whatever the space costs
+**$654k**
 
