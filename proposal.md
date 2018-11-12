@@ -72,6 +72,15 @@ It is on a major Amtrak train route, and has many long-distance bus services, al
 
 > An overview of the proposed venue(s): what are the capacities of each room, how will it accommodate the planned events?
 
+We propose to use the [Metropolitan Pavilion](https://www.metropolitanevents.com/location/metropolitan-pavilion) and the adjacent [Altman Building](https://www.altmanbldg.com/venue). There is an internal doorway between the buildings.
+
+The Metropolitan Pavilion has one large room, accommodating up to 1500 attendees, and 3 smaller rooms, each accommodating 300 attendees. The Altman Building has a large room accomodating 550 attendees, and a smaller room accomodating 175 attendees.
+
+While the proposal is based upon 1000 attendees, the large local population means that this conference size could easily be exceeded; 1500 attendees does not seem difficult to achieve. 
+
+We propose to use the three smaller rooms in the Metropolitan Pavilion for Tuesday workshops. Those rooms plus the whole of the Altman Building will be used for parallel talks and booths for sponsors. The Metropolitan Pavilion main floor will be used for keynotes, breaks and social events.
+
+If we decide to scale the conference even further, New York University has the [Kimmel Center](https://www.nyu.edu/life/campus-resources/kimmel-center/reservable-spaces.html), about 15 minutes walk away.
 
 
 ## Suggested dates
@@ -86,7 +95,7 @@ The previous week is undesirable since it clashes with [The International Societ
 
 > Potential accommodation
 
-
+There are around 40 hotels within a 20 minute walk of the proposed venues.
 
 ## Schedule and format
 
@@ -116,9 +125,9 @@ Yes and yes.
 
 [Metropolitan pavilion](https://www.metropolitanevents.com/location/metropolitan-pavilion): main floor; 3 days @ $23k/day + $1600 clean up fee. 
 Metropolitan pavilion: floors 2, 4, and 5; 4 days at $21.55k/day + $2400 clean up fee.
-[Altman building](https://www.altmanbldg.com/venue): $29k/day
+[Altman building](https://www.altmanbldg.com/venue): 3 days @ $14.5k/day
 
-**$275.2k**
+**$202.7k**
 
 ### Catering
 
@@ -130,7 +139,7 @@ Metropolitan pavilion: floors 2, 4, and 5; 4 days at $21.55k/day + $2400 clean u
 
 - 3x photogaphers @ $1500/day
 - 1x videographer @ $2500/day
-- Premium Internet @$2k
+- Premium Internet @$5k
 
 **$36k**
 
@@ -153,8 +162,19 @@ Metropolitan pavilion: floors 2, 4, and 5; 4 days at $21.55k/day + $2400 clean u
 
 **$15k**
 
+### Tuesday night entertainment
+
+- $50/attendee * 700 attendees
+
+**$35k**
+
+### Wednesday night entertainment
+
+- $50/attendee * 10000 attendees
+
+**$50k**
 
 ### Total costs
 
-**$654k**
+**$648.7k**
 
