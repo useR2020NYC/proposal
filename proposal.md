@@ -131,34 +131,34 @@ Metropolitan pavilion: floors 2, 4, and 5; 4 days at $21.55k/day + $2400 clean u
 
 ### Catering
 
-- $75/attendee/day
+- $100/attendee/day
 
-**$300k**
+**$400k**
 
 ### Audio-visual
 
-- 3x photogaphers @ $1500/day
-- 1x videographer @ $2500/day
-- Premium Internet @$5k
+- 3x photogaphers @ $1500/day (for NYR I paid one photographer $2k/day)
+- 1x videographer @ $2500/day (We need a videographer in each room, so let's up this by the number of rooms)
+- Premium Internet @$5k (in DC I paid $1500 for two days for only 100 users, this seems very low to me)
 
 **$36k**
 
 ### Event management
 
-- 1x site manager @ $500/day
-- 20x helpers @ $200/day
+- 1x site manager @ $500/day (seems reasonable)
+- 20x helpers @ $200/day (seems reasonable)
 
 **$18k**
 
 ### Signage
 
-- Booklets, signs, etc.
+- Booklets, signs, etc. (We can probably get signs for $20/sign, for books I paid $1.60/book for 250 books at 12 pages, up the number of pages but also up the number of books, gotta be higher)
 
 **$10k**
 
 ### Swag
 
-- $15/attendee
+- $15/attendee (t-shirts can probably be had for ~$7 a piece, what other swag do we need?)
 
 **$15k**
 
