@@ -13,6 +13,7 @@ Richie is the author of two books on R programming, and is the creator or contri
 
 ### [Lore Dirick](https://www.linkedin.com/in/lore-dirick-b9066234), Senior Data Science Curriculum Writer at Flatiron School.
 
+Lore Dirick is a Senior Data Science Curriculum Writer for WeWork’s Flatiron School. She previously worked as a Curriculum Lead for online data science school DataCamp, where she built out the R and Python curriculum and taught online data science courses to over 80,000 students. Lore has attended 2 UseR conferences, was committee member for PyData NYC 2017 and Scipy 2018, and has given talks and workshops at several meetups in NYC.
 
 ### [Dmitriy Gorenshteyn](https://www.linkedin.com/in/dimagor), Senior Data Scientist at Memorial Sloan Kettering Cancer Center.
 
