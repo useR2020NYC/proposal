@@ -6,6 +6,7 @@
 
 ### [Hugo Bowne-Anderson](https://www.linkedin.com/in/hugo-bowne-anderson-045939a5), Data Scientist at DataCamp.
 
+Hugo is a data scientist at DataCamp, a data science training company educating over 3 million learners worldwide through interactive courses on the use of Python, R, SQL, Git and Bash in a data science context. He has spearheaded the development of over 25 courses in DataCamp’s Python curriculum, impacting 300,000+ learners worldwide through his own courses. Hugo is also host of the weekly data science podcast DataFramed. Hugo earned his PhD in Mathematics from the University of New South Wales, Australia and has conducted biomedical research at the Max Planck Institute in Germany and Yale University, New Haven. He wants to help reduce comptuational anxiety in the world.
 
 ### [Richard Cotton](https://www.linkedin.com/in/richierocks), Head of Content Quality at DataCamp.
 
