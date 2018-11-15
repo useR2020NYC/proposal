@@ -40,8 +40,9 @@ JD Long is a New York based risk manager and a long time R user. JD founded the 
 ### [Brian Peterson](https://www.linkedin.com/in/briangpeterson), Managing Director at Hehmeyer Trading + Investments.
 
 
-### [Noam Ross](https://www.linkedin.com/in/noamross), Disease Ecologist at EcoHealth Alliance; Editor at rOpenSci.
+### [Noam Ross](https://www.linkedin.com/in/noamross), Senior Research Scientist at EcoHealth Alliance; Editor at rOpenSci.
 
+Noam Ross is Senior Research Scientist at EcoHealth Alliance, an NYC-based conservation and health research nonprofit.  Noam founded the Davis R user group. He is a software peer-review editor for rOpenSci and has been on the organizing board for the rOpenSci unconference for two years.
 
 ### [Letisha Smith](https://www.linkedin.com/in/letishas), Senior Database Analyst at NYU Langone Health.
 Letisha Smith recently graduated with her MS in Applied Statistics at New York University. In her current role as Senior Database Analyst at NYU’s School of Medicine, she uses R on a daily basis to synthesize and report on data that residents, clinics, and hospitals receive on their quality of care. In 2018, the Royal Statistical Society recognized her with a Statistical Excellence Award in Early Career Writing for a paper she wrote on using machine learning to reduce food waste.
