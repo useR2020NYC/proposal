@@ -51,7 +51,9 @@ Letisha Smith recently graduated with her MS in Applied Statistics at New York U
 ### [John Verzani](https://www.linkedin.com/in/jjohn-verzani-12a8997), Professor and Chair of the Mathematics Department at the College of Staten Island of the City University of New York.
 
 
-### [Tian Zheng](https://www.linkedin.com/in/tian-zheng-082402/), Professor of Statistics & Data Science Institute Associate Director for Education, Columbia University.
+### [Tian Zheng](http://www.stat.columbia.edu/~tzheng/)((@tz33cu)[https://github.com/tz33cu]), Professor of Statistics & Data Science Institute Associate Director for Education, Columbia University.
+
+Tian Zheng develops novel methods for exploring and understanding patterns in complex data from different application domains such as biology, psychology, climatology, and etc. Her research has been recognized by the 2008 Outstanding Statistical Application Award from the American Statistical Association (ASA), the Mitchell Prize from ISBA and a Google research award. She became a Fellow of American Statistical Association in 2014. Tian is the receipt of 2017 Columbia’s Presidential Award for Outstanding Teaching. In 2019, she will chair ASA’s section on Statistical Learning and Data Science. In her role at Columbia's Data Science Institute, she promotes responsible use of data and innovative pedagogies for data science education. 
 
 
 ## City overview
