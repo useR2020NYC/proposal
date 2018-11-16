@@ -41,6 +41,7 @@ JD Long is a New York based risk manager and a long time R user. JD founded the 
 
 ### [Brian Peterson](https://www.linkedin.com/in/briangpeterson), Managing Director at Hehmeyer Trading + Investments.
 
+Brian Peterson is a lead executive for quantitative trading with more than a decade of experience researching, designing, developing, and deploying production quantitative trading systems. Brian is co-author or maintainer of over 10 packages for using the R statistical language in finance, and acts as the organization administrator for R's participation in the prestigious annual Google Summer of Code program. In addition, Brian holds an appointment as a Lecturer in the University of Washington Applied Mathematics, Computational Finance and Risk Management graduate department.  At UW, Brian developed the trading sequence of courses, and teaches algrithmic trading systems design. Brian has deep experience delivering large, technically complex production systems utilizing the latest technologies and techniques, including advanced optimization, machine learning and artificial intelligence, low latency execution, and algorithm design, judged directly by their performance in live markets.
 
 ### [Noam Ross](https://www.linkedin.com/in/noamross), Senior Research Scientist at EcoHealth Alliance; Editor at rOpenSci.
 
