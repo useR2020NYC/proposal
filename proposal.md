@@ -35,7 +35,7 @@ Jared P. Lander is Chief Data Scientist of Lander Analytics, an Adjunct Professo
 
 ### [JD Long](https://www.linkedin.com/in/jamesdlong), Vice President of Risk Management at RenaissanceRe.
 
-JD Long is a New York based risk manager and a long time R user. JD founded the Chicago R User group, is the coauthor of _R Cookbook - 2nd Edition_ and is a regular presenter at multiple tech meetups in the Northeast. 
+JD Long is a New York based risk manager and a long time R user. JD founded the Chicago R User group, is the coauthor of _R Cookbook - 2nd Edition_ and is a regular presenter at multiple tech meetups in the Northeast.
 
 ### [Brian Peterson](https://www.linkedin.com/in/briangpeterson), Managing Director at Hehmeyer Trading + Investments.
 
@@ -50,12 +50,13 @@ Letisha Smith recently graduated with her MS in Applied Statistics at New York U
 ### [Simon Urbanek](https://www.linkedin.com/in/simon-urbanek-08b973106), Lead Inventive Scientist at AT&T Labs - Research; President of R Foundation.
 
 
-### [John Verzani](https://www.linkedin.com/in/jjohn-verzani-12a8997), Professor and Chair of the Mathematics Department at the College of Staten Island of the City University of New York.
+### [John Verzani](https://www.linkedin.com/in/jjohn-verzani-12a8997), Professor of  Mathematics at the College of Staten Island of the City University of New York.
 
+John is the author of a few books on R. Currently he is serving as Editor in Chief of the R Journal.
 
 ### [Tian Zheng](http://www.stat.columbia.edu/~tzheng/)((@tz33cu)[https://github.com/tz33cu]), Professor of Statistics & Data Science Institute Associate Director for Education, Columbia University.
 
-Tian Zheng develops novel methods for exploring and understanding patterns in complex data from different application domains such as biology, psychology, climatology, and etc. Her research has been recognized by the 2008 Outstanding Statistical Application Award from the American Statistical Association (ASA), the Mitchell Prize from ISBA and a Google research award. She became a Fellow of American Statistical Association in 2014. Tian is the receipt of 2017 Columbia’s Presidential Award for Outstanding Teaching. In 2019, she will chair ASA’s section on Statistical Learning and Data Science. In her role at Columbia's Data Science Institute, she promotes responsible use of data and innovative pedagogies for data science education. 
+Tian Zheng develops novel methods for exploring and understanding patterns in complex data from different application domains such as biology, psychology, climatology, and etc. Her research has been recognized by the 2008 Outstanding Statistical Application Award from the American Statistical Association (ASA), the Mitchell Prize from ISBA and a Google research award. She became a Fellow of American Statistical Association in 2014. Tian is the receipt of 2017 Columbia’s Presidential Award for Outstanding Teaching. In 2019, she will chair ASA’s section on Statistical Learning and Data Science. In her role at Columbia's Data Science Institute, she promotes responsible use of data and innovative pedagogies for data science education.
 
 
 ## City overview
@@ -100,7 +101,7 @@ The previous week is undesirable since it clashes with [The International Societ
 We propose to follow the standard useR format.
 
 - Tuesday consists of half day tutorials (at extra cost), and has a tourism-based social event in the evening.
-- Talks run from Wednesday to Friday, including parallel sessions and at least six keynote talks. 
+- Talks run from Wednesday to Friday, including parallel sessions and at least six keynote talks.
 - Wednesday includes a session for sponsors. The evening event is a drinks, networking, and poster session.
 - Thursday includes breakout sessions for special interest groups. The evening event is a dinner (ticket required).
 - Friday includes lightning talks and an early finish.
@@ -116,5 +117,3 @@ Yes and yes.
 ## Budget
 
 > An outline budget
-
-
