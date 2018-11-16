@@ -55,7 +55,7 @@ Letisha Smith recently graduated with her MS in Applied Statistics at New York U
 
 John is the author of a few books on R. Currently he is serving as Editor in Chief of the R Journal.
 
-### [Tian Zheng](http://www.stat.columbia.edu/~tzheng/)((@tz33cu)[https://github.com/tz33cu]), Professor of Statistics & Data Science Institute Associate Director for Education, Columbia University.
+### [Tian Zheng](http://www.stat.columbia.edu/~tzheng/) ([@tz33cu](https://github.com/tz33cu)), Professor of Statistics & Data Science Institute Associate Director for Education, Columbia University.
 
 Tian Zheng develops novel methods for exploring and understanding patterns in complex data from different application domains such as biology, psychology, climatology, and etc. Her research has been recognized by the 2008 Outstanding Statistical Application Award from the American Statistical Association (ASA), the Mitchell Prize from ISBA and a Google research award. She became a Fellow of American Statistical Association in 2014. Tian is the receipt of 2017 Columbia’s Presidential Award for Outstanding Teaching. In 2019, she will chair ASA’s section on Statistical Learning and Data Science. In her role at Columbia's Data Science Institute, she promotes responsible use of data and innovative pedagogies for data science education.
 
