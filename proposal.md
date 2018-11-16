@@ -203,3 +203,24 @@ Attendees will pay extra for this, so the cost is not included here.
 
 **$873.4k**
 
+### Net cost after sponsorship
+
+We propose to raise at least $200k in sponsorship, resulting in a net conference cost of **$673.4k**.
+
+### Proposed pricing
+
+Based upon 1000 attendees, the mean revenue per attendee needs to be $673. The budget is based upon a capacity of 1500 attendees, so having a break-even point at 1000 attendees does not seem unreasonable.
+
+We propose the following pricing to achieve this.
+
+- Industry: $1600
+- Academic: $1200
+- Student: $600
+
+Early bird
+
+- Industry: $1200
+- Academic: $800
+- Student: $400
+
+For attendees not joining in with the workshops, 3 days would be 3/4 of the price. Some tickets will be provided free or at a discount for sponsors and people requiring financial assistance.
