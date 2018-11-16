@@ -1,4 +1,4 @@
-# Proposal for useR 2020 be be hosted in NYC
+# Proposal for useR 2020 to be hosted in NYC
 
 ## Team Overview
 
