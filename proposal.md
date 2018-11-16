@@ -21,6 +21,7 @@ Lore Dirick is a Senior Data Science Curriculum Writer for WeWork’s Flatiron S
 
 ### [Jennifer Hill](https://www.linkedin.com/in/jennifer-hill-0a419310), Professor of Applied Statistics and Data Science at NYU; Co-Director, PRIISM Center; Co-Director, A3SR MS Program.
 
+Jennifer Hill is Professor of Applied Statistics and Data Science at NYU where she holds an Associated Faculty appointment with the Center for Data Science and an Affiliated Faculty appointment with the department of Politics.  She also co-directs an MS Program in Applied Statistics and as well as an Applied Statistics Center, PRIISM.  Hill works primarily focuses on the intersection of causal inference, machine learning, and Bayesian statistics.  She has co-authored dozens of journal articles and a widely read book on data analysis using R, Multilevel models, Data Analysis Using Regression and Multilevel/Hierarchical Models (with Andrew Gelman).  She has previously spoken in the New York Open Statistical Programming Meetup.
 
 ### [Soumya Kalra](https://www.linkedin.com/in/soumyakalra), Quantitative Analyst, Federal Reserve Bank of New York; R-Ladies NYC board member.
 
