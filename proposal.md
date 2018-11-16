@@ -28,8 +28,9 @@ Jennifer Hill is Professor of Applied Statistics and Data Science at NYU where s
 
 Soumya is a quantitative analyst at the New York Federal Reserve where she focusing on developing models and tools as related to stress testing work. She has previously worked at the Securities and Exchange Commission as well as the Department of Treasury.  She is currently the lead organizer for R-Ladies New York and on the committee for the R in Finance.
 
-### [Mike Kane](https://www.linkedin.com/in/michael-kane-9766147), Assistant Professor at Yale University.
+### [Michael Kane](https://www.linkedin.com/in/michael-kane-9766147), Assistant Professor at Yale University.
 
+Michale is an Assistant Professor of Biostatistics at Yale University. His research is in the area of scalable statistical computing and statistical/machine learning, with applications in cancer trials and population-level mobility. He is an active member of the R community, serving as the chair for the (R in Medicine conference)[https://r-medicine.com/], associate editor for the Journal of Stastistical Software, and an associate editor of the Journal of the American Statistical Associations and part of its reproducibility initiative.
 
 ### [Jared Lander](https://www.linkedin.com/in/jaredlander), Chief Data Scientist of Lander Analytics.
 
@@ -52,6 +53,8 @@ Noam Ross is Senior Research Scientist at EcoHealth Alliance, an NYC-based conse
 Letisha Smith recently graduated with her MS in Applied Statistics at New York University. In her current role as Senior Database Analyst at NYU’s School of Medicine, she uses R on a daily basis to synthesize and report on data that residents, clinics, and hospitals receive on their quality of care. In 2018, the Royal Statistical Society recognized her with a Statistical Excellence Award in Early Career Writing for a paper she wrote on using machine learning to reduce food waste.
 
 ### [Simon Urbanek](https://www.linkedin.com/in/simon-urbanek-08b973106), Lead Inventive Scientist at AT&T Labs - Research; President of R Foundation.
+
+Simon Urbanek is a member of the R-Core, Lead Inventive Scientist at AT&T Labs Research, and President of the R Foundation. His research is in focuses on statistical computing, visualization, and interactive graphics.
 
 
 ### [John Verzani](https://www.linkedin.com/in/jjohn-verzani-12a8997), Professor of  Mathematics at the College of Staten Island of the City University of New York.
