@@ -152,9 +152,15 @@ Yes and yes.
 ### Event management
 
 - 1x site manager @ $500/day 
-- 20x helpers @ $200/day 
+- 40x helpers @ $200/day 
 
-**$18k**
+**$34k**
+
+### Seating
+
+- 3 days @ $10k/day
+
+**$30k**
 
 ### Signage
 
@@ -193,5 +199,5 @@ Attendees will pay extra for this, so the cost is not included here.
 
 ### Total costs
 
-**$827.4k**
+**$873.4k**
 
