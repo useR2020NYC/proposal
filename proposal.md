@@ -88,7 +88,7 @@ The Metropolitan Pavilion has one large room, accommodating up to 1500 attendees
 
 While the proposal is based upon 1000 attendees, the large local population means that this conference size could easily be exceeded; 1500 attendees does not seem difficult to achieve. 
 
-We propose to use the three smaller rooms in the Metropolitan Pavilion for Tuesday workshops. Those rooms plus the whole of the Altman Building will be used for parallel talks and booths for sponsors. The Metropolitan Pavilion main floor will be used for keynotes, breaks and social events.
+We propose to use the three smaller rooms in the Metropolitan Pavilion plus the whole of the Altman Building will be used for parallel talks and booths for sponsors. The Metropolitan Pavilion main floor will be used for keynotes, breaks and social events.
 
 ## Suggested dates
 
