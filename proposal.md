@@ -183,7 +183,7 @@ Yes and yes.
 
 ### Wednesday night entertainment
 
-- $50/attendee * 10000 attendees
+- $50/attendee * 1000 attendees
 
 **$50k**
 
