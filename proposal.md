@@ -72,22 +72,21 @@ It is on a major Amtrak train route, and has many long-distance bus services, al
 
 > An overview of the proposed venue(s): what are the capacities of each room, how will it accommodate the planned events?
 
-We propose to use the [Metropolitan Pavilion](https://www.metropolitanevents.com/location/metropolitan-pavilion) and the adjacent [Altman Building](https://www.altmanbldg.com/venue). There is an internal doorway between the buildings.
+For the first day of workshops, we propose to use the New York University [Kimmel Center](https://www.nyu.edu/life/campus-resources/kimmel-center/reservable-spaces.html). This has 3 larger rooms of capacity 250 to 300 attendees plus 11 smaller rooms of capacity 50 to 80 attendees. The large number of rooms allows for many parallel workshops (and payment is available on a room by room basis, allowing easier scaling).
 
-The Metropolitan Pavilion has one large room, accommodating up to 1500 attendees, and 3 smaller rooms, each accommodating 300 attendees. The Altman Building has a large room accomodating 550 attendees, and a smaller room accomodating 175 attendees.
+For the three days of talks, we propose to use the [Metropolitan Pavilion](https://www.metropolitanevents.com/location/metropolitan-pavilion) and the adjacent [Altman Building](https://www.altmanbldg.com/venue). There is an internal doorway between the buildings. These buildings are about 15 minutes walk from the NYU building.
+
+The Metropolitan Pavilion has one large room, accommodating up to 1500 attendees, and 3 smaller rooms, each accommodating 300 attendees. The Altman Building has a large room accommodating 550 attendees, and a smaller room accomodating 175 attendees.
 
 While the proposal is based upon 1000 attendees, the large local population means that this conference size could easily be exceeded; 1500 attendees does not seem difficult to achieve. 
 
 We propose to use the three smaller rooms in the Metropolitan Pavilion for Tuesday workshops. Those rooms plus the whole of the Altman Building will be used for parallel talks and booths for sponsors. The Metropolitan Pavilion main floor will be used for keynotes, breaks and social events.
 
-If we decide to scale the conference even further, New York University has the [Kimmel Center](https://www.nyu.edu/life/campus-resources/kimmel-center/reservable-spaces.html), about 15 minutes walk away.
-
-
 ## Suggested dates
 
 > Potential dates (when venue is free/avoiding major meetings)
 
-The preferred date is for tutorials on 2020-07-07 (Tuesday), with the conference lasting from 2020-07-08 to 2020-07-10 (Wednesday to Friday).
+The preferred date is tutorials on 2020-07-07 (Tuesday), with the conference lasting from 2020-07-08 to 2020-07-10 (Wednesday to Friday).
 
 The previous week is undesirable since it clashes with [The International Society for Bayesian Analysis World Meeting](https://bayesian.org/events/world-meetings), and many people may wish to attend both events.
 
@@ -95,7 +94,7 @@ The previous week is undesirable since it clashes with [The International Societ
 
 > Potential accommodation
 
-There are around 40 hotels within a 20 minute walk of the proposed venues.
+There are around 40 hotels within a 20 minute walk of the proposed venues. New York has a strong public transit system, making the accommodation within a reasonable travelling distance effectively unlimited.
 
 ## Schedule and format
 
@@ -123,11 +122,11 @@ Yes and yes.
 
 ### Space rental 
 
-[Metropolitan pavilion](https://www.metropolitanevents.com/location/metropolitan-pavilion): main floor; 3 days @ $23k/day + $1600 clean up fee. 
-Metropolitan pavilion: floors 2, 4, and 5; 4 days at $21.55k/day + $2400 clean up fee.
+[Kimmel Center](https://www.nyu.edu/life/campus-resources/kimmel-center/reservable-spaces.html): 1 day @ $43.2k/day (including media services and technicians).
+[Metropolitan pavilion](https://www.metropolitanevents.com/location/metropolitan-pavilion): 3 days @ $44.55k/day + $4k clean up fee. 
 [Altman building](https://www.altmanbldg.com/venue): 3 days @ $14.5k/day
 
-**$202.7k**
+**$224.4k**
 
 ### Catering
 
@@ -137,30 +136,37 @@ Metropolitan pavilion: floors 2, 4, and 5; 4 days at $21.55k/day + $2400 clean u
 
 ### Audio-visual
 
-- 3x photogaphers @ $1500/day (for NYR I paid one photographer $2k/day)
-- 1x videographer @ $2500/day (We need a videographer in each room, so let's up this by the number of rooms)
-- Premium Internet @$5k (in DC I paid $1500 for two days for only 100 users, this seems very low to me)
+- 3x photographers, 4 days @ $2k/person/day 
+- 5x videographer, 3 days @ $2.5k/person/day 
+- Premium Internet, 3 days (workshops already included in NYU price) @ $5k/day 
 
-**$36k**
+**$76.5k**
 
 ### Event management
 
-- 1x site manager @ $500/day (seems reasonable)
-- 20x helpers @ $200/day (seems reasonable)
+- 1x site manager @ $500/day 
+- 20x helpers @ $200/day 
 
 **$18k**
 
 ### Signage
 
-- Booklets, signs, etc. (We can probably get signs for $20/sign, for books I paid $1.60/book for 250 books at 12 pages, up the number of pages but also up the number of books, gotta be higher)
+- 1000x paper programmes @ $1.50/programme
+- 100x signs @ $20/sign
 
-**$10k**
+**$3.5k**
 
 ### Swag
 
-- $15/attendee (t-shirts can probably be had for ~$7 a piece, what other swag do we need?)
+- $10/attendee
 
-**$15k**
+**$10k**
+
+### Childcare
+
+- 50x children @ $50/care facilities/day
+
+**$10k**
 
 ### Tuesday night entertainment
 
@@ -176,5 +182,5 @@ Metropolitan pavilion: floors 2, 4, and 5; 4 days at $21.55k/day + $2400 clean u
 
 ### Total costs
 
-**$648.7k**
+**$827.4k**
 
