@@ -26,6 +26,7 @@ Jennifer Hill is Professor of Applied Statistics and Data Science at NYU where s
 
 ### [Soumya Kalra](https://www.linkedin.com/in/soumyakalra), Quantitative Analyst, Federal Reserve Bank of New York; R-Ladies NYC board member.
 
+Soumya is a quantitative analyst at the New York Federal Reserve where she focusing on developing models and tools as related to stress testing work. She has previously worked at the Securities and Exchange Commission as well as the Department of Treasury.  She is currently the lead organizer for R-Ladies New York and on the committee for the R in Finance.
 
 ### [Mike Kane](https://www.linkedin.com/in/michael-kane-9766147), Assistant Professor at Yale University.
 
