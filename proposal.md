@@ -129,9 +129,9 @@ Yes and yes.
 
 ### Space rental 
 
-[Kimmel Center](https://www.nyu.edu/life/campus-resources/kimmel-center/reservable-spaces.html): 1 day @ $43.2k/day (including media services and technicians).
-[Metropolitan pavilion](https://www.metropolitanevents.com/location/metropolitan-pavilion): 3 days @ $44.55k/day + $4k clean up fee. 
-[Altman building](https://www.altmanbldg.com/venue): 3 days @ $14.5k/day
+- [Kimmel Center](https://www.nyu.edu/life/campus-resources/kimmel-center/reservable-spaces.html): 1 day @ $43.2k/day (including media services and technicians).
+- [Metropolitan pavilion](https://www.metropolitanevents.com/location/metropolitan-pavilion): 3 days @ $44.55k/day + $4k clean up fee. 
+- [Altman building](https://www.altmanbldg.com/venue): 3 days @ $14.5k/day
 
 **$224.4k**
 
@@ -186,6 +186,10 @@ Yes and yes.
 - $50/attendee * 10000 attendees
 
 **$50k**
+
+### Thursday night entertainment
+
+Attendees will pay extra for this, so the cost is not included here.
 
 ### Total costs
 
