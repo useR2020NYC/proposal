@@ -16,7 +16,8 @@ Richie is the author of two books on R programming, and is the creator or contri
 
 Lore Dirick is a Senior Data Science Curriculum Writer for WeWork’s Flatiron School. She previously worked as a Curriculum Lead for online data science school DataCamp, where she built out the R and Python curriculum and taught online data science courses to over 80,000 students. Lore has attended 2 UseR conferences, was committee member for PyData NYC 2017 and Scipy 2018, and has given talks and workshops at several meetups in NYC.
 
-### [Dmitriy Gorenshteyn](https://www.linkedin.com/in/dimagor), Senior Data Scientist at Memorial Sloan Kettering Cancer Center.
+### [Dmitriy Gorenshteyn](https://www.linkedin.com/in/dimagor), Lead Data Scientist at Memorial Sloan Kettering Cancer Center.
+Dmitriy is a Lead Data Scientist in the Strategy & Innovation department at Memorial Sloan Kettering Cancer Center. At MSK, he develops predictive models for initiatives aimed at improving patient care. He also leads R workshops, presenters series, and hackathons to empower the data community at MSK. Prior to this role, Dmitriy received his PhD in Quantitative & Computational Biology at Princeton University.
 
 
 ### [Jennifer Hill](https://www.linkedin.com/in/jennifer-hill-0a419310), Professor of Applied Statistics and Data Science at NYU; Co-Director, PRIISM Center; Co-Director, A3SR MS Program.
